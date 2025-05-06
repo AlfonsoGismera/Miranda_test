@@ -1,4 +1,3 @@
-// hotel‑tests/index.js
 class Booking {
   constructor({ name, email, checkIn, checkOut, discount, room }) {
     this.name = name;

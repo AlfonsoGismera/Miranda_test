@@ -1,4 +1,3 @@
-// hotel‑tests/index.test.js
 const { Room, Booking } = require('./index');
 
 describe('Clase Booking', () => {
